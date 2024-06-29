@@ -1,4 +1,4 @@
-# rwc
+# rwc [![Rust](https://github.com/joshaustintech/rwc/actions/workflows/rust.yml/badge.svg)](https://github.com/joshaustintech/rwc/actions/workflows/rust.yml)
 wc clone written in Rust
 
 # usages
