@@ -15,9 +15,9 @@ default to the equivalent arguments of `-c -l -w`.
 ## arguments
 | argument  | description                                                       |
 | --------  | -----------                                                       |
+| -c        | prints number of bytes                                            |
 | -l        | prints number of newlines, not including the end of the last line |
 | -w        | prints number of words                                            |
-| -c        | prints number of bytes                                            |
 | -m        | prints number of characters                                       |
 
 
