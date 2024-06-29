@@ -23,7 +23,7 @@ default to the equivalent arguments of `-c -l -w`.
 Example:
 ```
 $ rwc test.txt
-7145    58164   342190  test.txt
+    7145    58164   342190  test.txt
 ```
 
 ## table of arguments
